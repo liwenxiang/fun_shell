@@ -1,3 +1,4 @@
+#send mms to phone
 PHONE_NUM="1234567890"
 curl "http://member.1688.com//member/ajax/send_identity_code_by_mobile.do?callback=jQuery172007067019236274064_1376100939244&mobile=${PHONE_NUM}&area=86&isBizMobile=true"
 curl "https://affiliate-program.amazon.com/gp/associates/apply/assoc-ivs.html?phoneNumber=%2B86${PHONE_NUM}&operation=start&ts=1376044348191"
