@@ -10,7 +10,7 @@ public:
 private:
     ___CLASSNAME(const ___CLASSNAME&);
     ___CLASSNAME& operator=(const ___CLASSNAME&);
-}
+};
 
 ___NAMESPACE_END
 #endif
